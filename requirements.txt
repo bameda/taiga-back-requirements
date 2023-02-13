@@ -227,7 +227,7 @@ vine==5.0.0
     #   kombu
 wcwidth==0.2.6
     # via prompt-toolkit
-webcolors==1.9.1
+webcolors==1.12
     # via -r requirements.in
 webencodings==0.5.1
     # via
